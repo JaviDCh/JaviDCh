@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JaviDCh/JaviDCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de Sistemas**
 
-Here are some ideas to get you started:
+:pencil: **Estudiante platzi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Bogota D.C.**
+
+### vias de Contacto
+
+![website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-dario-c-414959236
+)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JaviDCh/JaviDCh)
+
+### Tecnologias
+
+Actualmente estoy aprendiendo
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
