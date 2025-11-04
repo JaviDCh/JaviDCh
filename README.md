@@ -21,6 +21,7 @@ Actualmente estoy aprendiendo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### :zap: Actividad Reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--END_SECTION:activity-->
+
